@@ -46,3 +46,4 @@ _testmain.go
 *.png
 *.jpeg
 /.dist
+/movie-app/.dist
